@@ -1,0 +1,55 @@
+No template da landing page - modo claro, faça os seguintes ajustes:
+
+No modal de CopyMaster AI - Gerando Copies, ajuste: Mude Venda de curso de copywriting para iniciantes em marketing digital.
+
+Para: DocSpace Copy Master: Em poucos minutos a IA cria conteúdos personalizados para o tom de voz de até 13 canais, a partir do seu briefing. Sem bloqueio criativo: gere, confira e use o chat com a IA sempre que quiser mudar qualquer conteúdo de forma ágil e inteligente.
+
+Ajuste mantendo espaçamentos e uma visualização clean.
+
+Em Instagram mude o texto de Cansado de escrever ...
+
+Para: Slide 1: Você passa horas tentando adaptar um texto para cada rede social e, no fim, o resultado parece genérico e sem alma.
+
+Slide 2: O impacto? Algoritmos te ignoram, clientes perdem o interesse e sua marca perde a autoridade.
+
+Slide 3: A REVELAÇÃO: DocSpace Copy Master. A IA que gera textos em 13 canais mantendo a essência da sua marca.
+
+Slide 4: Quer dominar sua estratégia de conteúdo? Clique no link da Bio e descubra.
+
+No texto de Linkedin, mude de : Em 2024...
+
+Para:
+
+Muitas empresas acreditam que precisam escolher entre qualidade ou velocidade na produção de conteúdo. Na verdade, essa escolha é um mito criado por processos ineficientes.
+
+Como estrategista, vejo marcas perdendo autoridade por não dominarem a linguagem específica de cada canal B2B. O LinkedIn exige profundidade, enquanto o Twitter pede agilidade. O DocSpace Copy Master resolve essa equação complexa através de regras de IA validadas pelo mercado...
+
+Email, mude de: Assunto: A habilidade...
+
+Para:
+
+Olá, [Nome do Prospect],
+
+Notei que sua empresa tem uma presença digital forte, mas me pergunto: quanto tempo sua equipe perde semanalmente apenas adaptando o mesmo conteúdo para diferentes redes sociais?
+
+[PROBLEMA] A maioria das empresas falha na conversão por causa da descontinuidade da mensagem. O que funciona num post do LinkedIn raramente engaja no Instagram, e essa fricção destrói sua autoridade e, consequentemente, suas vendas.
+
+[SOLUÇÃO] É aqui que entra o DocSpace Copy Master. Nossa ferramenta não apenas gera textos, ela cria estratégias multicanais completas que mantêm a voz da sua marca consistente enquanto maximiza a conversão em cada um dos 13 pontos de contato em que você atua...
+
+Remova o modal de <3 segundos de todos os pontos da landing page
+
+36 minutes ago
+
+6 actions
+Now I have a complete picture of all the changes needed. Let me write the plan.
+
+
+5 actions
+O plano está pronto como Task #1 (Landing Page Light — Content Updates). Aqui está um resumo do que será feito:
+
+Briefing → substituído pelo texto completo do DocSpace Copy Master (multi-linha, espaçamento limpo)
+Instagram → 4 slides formatados com labels em negrito (Slide 1 a Slide 4)
+LinkedIn → novo parágrafo iniciando em "Muitas empresas acreditam…"
+E-mail → novo corpo com "Olá, [Nome do Prospect]…" e marcadores [PROBLEMA] / [SOLUÇÃO] em destaque
+Badge "< 3 segundos" → removido do hero mockup
+Stat "VELOCIDADE / < 3 Segundos" → removido da faixa de métricas; grid ajustado para 3 colunas
